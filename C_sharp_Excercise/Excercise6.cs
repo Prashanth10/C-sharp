@@ -12,7 +12,7 @@ namespace C_sharp_Excercise
             int b = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Input the third number to multiply:");
             int c = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Expected Output: {0}*{1}*{2} = {3}",a,b,c,a*b*c);
+            Console.WriteLine("Output: {0}*{1}*{2} = {3}",a,b,c,a*b*c);
             Console.ReadKey();
         }
     }
