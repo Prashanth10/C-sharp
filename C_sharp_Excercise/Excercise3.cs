@@ -4,7 +4,7 @@ namespace C_sharp_Excercise
 {
     internal class Excercise3
     {
-        public static void Main()
+        public static void Main2()
         {
             int a = 60;
             int b = 6;
