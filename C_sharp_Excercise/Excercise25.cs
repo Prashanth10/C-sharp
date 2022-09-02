@@ -4,7 +4,7 @@ namespace C_sharp_Excercise
 {
     internal class Excercise25
     {
-        public static void Main()
+        public static void Main2()
         {
             int n = Convert.ToInt32(Console.ReadLine());
             for(int i = 1; i <= n; i++)
